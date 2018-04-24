@@ -44,3 +44,5 @@ portanto, indicando uma aproximação, o contador será incrementado de uma unid
 ## Componentes utilizados:
 - Sensor de luz
 - Media player
+
+### FGApps
